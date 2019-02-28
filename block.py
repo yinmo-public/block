@@ -9,3 +9,4 @@ else:
         print("封鎖好友 " + yinmo.getContact(contact).displayName)
         yinmo.blockContact(contact)
     print("\n您封鎖" + str(int1) + "位好友")
+    
