@@ -24,4 +24,4 @@ Use it at your own risks !
 ```
 
 ## Thanks to 
-[@北山 Kitayama](https://github.com/rootmelo92118)
+[@rootmelo92118](https://github.com/rootmelo92118)
