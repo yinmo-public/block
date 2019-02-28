@@ -2,13 +2,13 @@
 
  [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) 
 
-*LINE Message unofficial API* [here](https://github.com/yinmo-public/linepy)
+*LINE Message Unofficial API* [here](https://github.com/yinmo-public/linepy)
 
 ----
 
 ## Requirement
 
-The linepy module requires Python 3.x [download](https://www.python.org/downloads/). 
+The linepy module requires Python 3.x  [download](https://www.python.org/downloads/). 
 
 ## Updates 02/28/2019
 ```
