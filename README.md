@@ -8,7 +8,7 @@
 
 ## Requirement
 
-The linepy module only requires Python 3.x You can download from [here](https://www.python.org/downloads/). 
+The linepy module requires Python 3.x [download](https://www.python.org/downloads/). 
 
 ## Updates 02/28/2019
 ```
