@@ -24,3 +24,6 @@ Use it at your own risks !
 
 ## Thanks to 
 [@rootmelo92118](https://github.com/rootmelo92118)
+
+## Credits to
+[@author](https://line.me/ti/p/3eamxoks_T)
