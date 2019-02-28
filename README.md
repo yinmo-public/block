@@ -1,10 +1,28 @@
-# Update 02/10/2019 
-Fix by [北山 Kitayama](https://github.com/rootmelo92118)
+# ![logo](/examples/assets/LINE-sm.png) LINE Python
 
-* Important LINE official account can't blocked it may occur problems
+ [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) 
 
-Once you login your Line friends will blocked.
+*LINE Messaging's private API*
 
-Use it at your own risks !
+----
+
+## Requirement
+
+The linepy module only requires Python 3. You can download from [here](https://www.python.org/downloads/). 
 
 linepy [here](https://github.com/yinmo-public/linepy)
+
+## Updates 02/28/2019
+```
+* Fix logic
+* Add English version
+```
+## Warnings
+```
+Once you login your Line friends will blocked.
+Use it at your own risks !
+```
+linepy [here](https://github.com/yinmo-public/linepy)
+
+
+Fix by [北山 Kitayama](https://github.com/rootmelo92118)
